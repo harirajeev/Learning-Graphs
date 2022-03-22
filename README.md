@@ -5,6 +5,7 @@
 4. https://migalkin.github.io/
    https://twitter.com/michael_galkin
 5. https://hannes-stark.com/logag-reading-group
+6. https://rish-16.github.io/posts/gnn-math/   (Math Behind Graph Neural Networks)
 
 # Resources
 1. https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers
