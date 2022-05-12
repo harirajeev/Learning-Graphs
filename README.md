@@ -7,5 +7,8 @@
 5. https://hannes-stark.com/logag-reading-group
 6. https://rish-16.github.io/posts/gnn-math/   (Math Behind Graph Neural Networks)
 
+# Representation Learning over Knowledge Graphs
+1. https://towardsdatascience.com/inductive-link-prediction-in-knowledge-graphs-23f249c31961
+
 # Resources
 1. https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers
