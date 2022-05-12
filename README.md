@@ -9,6 +9,10 @@
 
 # Representation Learning over Knowledge Graphs
 1. https://towardsdatascience.com/inductive-link-prediction-in-knowledge-graphs-23f249c31961
+2. https://github.com/pykeen/pykeen
 
 # Resources
 1. https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers
+
+# Repos
+1. https://github.com/pykeen/pykeen
