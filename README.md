@@ -17,3 +17,4 @@
 # Repos
 1. https://github.com/pykeen/pykeen
 2. https://github.com/khangich/machine-learning-interview
+3. https://github.com/ashishpatel26/Andrew-NG-Notes
