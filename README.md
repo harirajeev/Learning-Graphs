@@ -18,3 +18,4 @@
 1. https://github.com/pykeen/pykeen
 2. https://github.com/khangich/machine-learning-interview
 3. https://github.com/ashishpatel26/Andrew-NG-Notes
+4. https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html
