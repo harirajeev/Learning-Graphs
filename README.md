@@ -13,6 +13,7 @@
 
 # Resources
 1. https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers
+2. https://papers.labml.ai/papers/daily/
 
 # Repos
 1. https://github.com/pykeen/pykeen
