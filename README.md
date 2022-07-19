@@ -20,3 +20,4 @@
 2. https://github.com/khangich/machine-learning-interview
 3. https://github.com/ashishpatel26/Andrew-NG-Notes
 4. https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html
+5. https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
