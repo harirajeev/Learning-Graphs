@@ -6,6 +6,8 @@
    https://twitter.com/michael_galkin
 5. https://hannes-stark.com/logag-reading-group
 6. https://rish-16.github.io/posts/gnn-math/   (Math Behind Graph Neural Networks)
+7. https://www.cs.mcgill.ca/~wlh/grl_book/  (Graph Representation Learning Book - William L. Hamilton, McGill University)
+8. https://github.com/AntonioLonga/PytorchGeometricTutorial
 
 # Representation Learning over Knowledge Graphs
 1. https://towardsdatascience.com/inductive-link-prediction-in-knowledge-graphs-23f249c31961
