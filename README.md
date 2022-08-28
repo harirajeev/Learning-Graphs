@@ -8,6 +8,8 @@
 6. https://rish-16.github.io/posts/gnn-math/   (Math Behind Graph Neural Networks)
 7. https://www.cs.mcgill.ca/~wlh/grl_book/  (Graph Representation Learning Book - William L. Hamilton, McGill University)
 8. https://github.com/AntonioLonga/PytorchGeometricTutorial
+9. http://networksciencebook.com/
+10. http://web.stanford.edu/class/cs224w/
 
 # Representation Learning over Knowledge Graphs
 1. https://towardsdatascience.com/inductive-link-prediction-in-knowledge-graphs-23f249c31961
@@ -23,3 +25,4 @@
 3. https://github.com/ashishpatel26/Andrew-NG-Notes
 4. https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html
 5. https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+6. https://github.com/thunlp/GNNPapers#survey-papers  (Must-read papers on GNN)
